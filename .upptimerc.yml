@@ -16,9 +16,9 @@ status-website:
   baseUrl: /uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Uptime
-  theme: dark
+  theme: night
   introTitle: "Uptime for UnownPlain's websites."
-  introMessage: Uptime Monitoring page.
+  introMessage: Ping and uptime are below.
   navbar:
     - title: Status
       href: /
