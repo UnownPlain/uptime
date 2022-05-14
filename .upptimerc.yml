@@ -19,6 +19,8 @@ status-website:
   theme: night
   introTitle: "Uptime for UnownPlain's websites."
   introMessage: Ping and uptime are below.
+  favicon: https://unownplain.github.io/uptime/logo-192.png
+  faviconSvg: https://raw.githubusercontent.com/UnownPlain/uptime/master/assets/upptime-icon.svg
   navbar:
     - title: Status
       href: /
