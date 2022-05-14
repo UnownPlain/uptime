@@ -19,6 +19,7 @@ status-website:
   theme: night
   introTitle: "Uptime for UnownPlain's websites."
   introMessage: Ping and uptime are below.
+  logoUrl: https://i.imgur.com/HbcpKPd.png
   navbar:
     - title: Status
       href: /
