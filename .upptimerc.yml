@@ -14,12 +14,11 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /uptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://i.imgur.com/HbcpKPd.png
   name: Uptime
   theme: night
   introTitle: "Uptime for UnownPlain's websites."
   introMessage: Ping and uptime are below.
-  logoUrl: https://i.imgur.com/HbcpKPd.png
   navbar:
     - title: Status
       href: /
