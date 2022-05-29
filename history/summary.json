@@ -1,24 +1,20 @@
 [
   {
-    "name": "Development Website",
-    "url": "$DEVELOPMENT_WEBSITE",
+    "name": "Main Website",
+    "url": "$MAIN_WEBSITE",
     "icon": "https://favicons.githubusercontent.com/null",
-    "slug": "development-website",
+    "slug": "main-website",
     "status": "up",
-    "uptime": "99.63%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.63%",
-    "uptimeYear": "99.63%",
-    "time": 243,
-    "timeDay": 200,
-    "timeWeek": 216,
-    "timeMonth": 243,
-    "timeYear": 243,
-    "dailyMinutesDown": {
-      "2022-05-24": 50,
-      "2022-05-20": 19,
-      "2022-05-18": 16
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 157,
+    "timeDay": 157,
+    "timeWeek": 157,
+    "timeMonth": 157,
+    "timeYear": 157,
+    "dailyMinutesDown": {}
   }
 ]
