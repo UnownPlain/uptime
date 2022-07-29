@@ -4,7 +4,7 @@
     "url": "$MAIN_WEBSITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,11 @@
     "uptimeYear": "99.91%",
     "time": 266,
     "timeDay": 373,
-    "timeWeek": 269,
+    "timeWeek": 275,
     "timeMonth": 267,
     "timeYear": 266,
     "dailyMinutesDown": {
+      "2022-07-29": 0,
       "2022-07-21": 20,
       "2022-07-12": 34,
       "2022-06-21": 26
